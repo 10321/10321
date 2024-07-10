@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rashmita Chauhan</h1>
 <h3 align="center">Hello! I'm Rashmita , a Data-driven professional pursuing my master’s degree in data science, AI, and Digital Business, actively seeking opportunities in the field of data science. Proficient in Python and SQL with expertise in Pandas and NumPy for data manipulation and analysis. Skilled in applying advanced statistical techniques and machine learning algorithms to extract actionable insights from complex datasets. Experienced in leveraging data-driven solutions to solve business challenges and optimize processes. Eager to contribute to innovative projects and drive impactful results in the dynamic field of data science. I enjoy Playing online games and outdoor sports and love to Code. In my GitHub repositories, you'll find projects related to EDA Data Visualisation, Python, ML, Flask. Feel free to explore, contribute, or reach out to me if you have any questions or collaborate on something exciting! Let's connect!</h3>
 
-- 🌱 I’m currently learning **I'm currently pursuing a Master's degree in Data Science with AI and Digital Business at GISMA University of Applied Science in Potsdam, Germany.**
+- 🌱  **I'm currently pursuing a Master's degree in Data Science with AI and Digital Business at GISMA University of Applied Science in Potsdam, Germany.**
 
-- 🤝 I’m looking for help with **I'm looking for help with advancing my skills in deep learning, computer vision, and natural language processing, as these are listed among your technical skills but not prominently featured in your project experience.**
+- 🤝 **I'm looking for help with advancing my skills in deep learning, computer vision, and natural language processing, as these are listed among your technical skills but not prominently featured in your project experience.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/10321](https://github.com/10321)
 
-- 💬 Ask me about **you can be asked about: Python programming and data analysis using libraries like Pandas and NumPy Machine learning algorithms and their implementation Web development using Flask and Django Database management with SQL and MongoDB AI applications, particularly in image classification (CNN)**
+- 💬 **you can be asked about: Python programming and data analysis using libraries like Pandas and NumPy Machine learning algorithms and their implementation Web development using Flask and Django Database management with SQL and MongoDB AI applications, particularly in image classification (CNN)**
 
 - 📫 How to reach me **rashmita200125@gmail.com, Phone: +49-17658758176 or +91-7977679442**
 
